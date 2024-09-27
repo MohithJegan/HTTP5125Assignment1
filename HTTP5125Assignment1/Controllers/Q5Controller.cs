@@ -16,7 +16,7 @@ namespace HTTP5125Assignment1.Controllers
         /// POST https://localhost:7246/api/q5/secret
         /// HEADERS: Content-Type: application/json
         /// FORM DATA: "request body"
-        /// Enter number is 5 -> requestBody:5 -> Shh.. the secret is 5
+        /// Entered number is 5 -> requestBody:5 -> Shh.. the secret is 5
         /// POST https://localhost:7246/api/q5/secret
         /// HEADERS: Content-Type: application/json
         /// FORM DATA: "request body"
